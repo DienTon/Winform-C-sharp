@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\QLSinhVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75DB38E9-4297-4C9A-98BA-A95E0C21FE50}|QLSinhVien\\QLSinhVien.csproj|c:\\users\\admin\\source\\repos\\qlsinhvien\\qlsinhvien\\qlsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DB38E9-4297-4C9A-98BA-A95E0C21FE50}|QLSinhVien\\QLSinhVien.csproj|solutionrelative:qlsinhvien\\qlsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DB38E9-4297-4C9A-98BA-A95E0C21FE50}|QLSinhVien\\QLSinhVien.csproj|C:\\Users\\Admin\\source\\repos\\QLSinhVien\\qlsinhvien\\sinhvienkcntt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DB38E9-4297-4C9A-98BA-A95E0C21FE50}|QLSinhVien\\QLSinhVien.csproj|solutionrelative:qlsinhvien\\sinhvienkcntt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DB38E9-4297-4C9A-98BA-A95E0C21FE50}|QLSinhVien\\QLSinhVien.csproj|C:\\Users\\Admin\\source\\repos\\QLSinhVien\\qlsinhvien\\sinhviendientu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DB38E9-4297-4C9A-98BA-A95E0C21FE50}|QLSinhVien\\QLSinhVien.csproj|solutionrelative:qlsinhvien\\sinhviendientu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|QLSinhVien||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QLSinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QLSinhVien\\QLSinhVien\\QLSinhVien.cs",
+              "RelativeDocumentMoniker": "QLSinhVien\\QLSinhVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QLSinhVien\\QLSinhVien\\QLSinhVien.cs",
+              "RelativeToolTip": "QLSinhVien\\QLSinhVien.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T02:49:42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SinhVienDienTu.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QLSinhVien\\QLSinhVien\\SinhVienDienTu.cs",
+              "RelativeDocumentMoniker": "QLSinhVien\\SinhVienDienTu.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QLSinhVien\\QLSinhVien\\SinhVienDienTu.cs",
+              "RelativeToolTip": "QLSinhVien\\SinhVienDienTu.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAmwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T02:49:31.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QLSinhVien",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QLSinhVien\\QLSinhVien\\QLSinhVien.csproj",
+              "RelativeDocumentMoniker": "QLSinhVien\\QLSinhVien.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QLSinhVien\\QLSinhVien\\QLSinhVien.csproj",
+              "RelativeToolTip": "QLSinhVien\\QLSinhVien.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-30T02:47:12.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinhVienKCNTT.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QLSinhVien\\QLSinhVien\\SinhVienKCNTT.cs",
+              "RelativeDocumentMoniker": "QLSinhVien\\SinhVienKCNTT.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QLSinhVien\\QLSinhVien\\SinhVienKCNTT.cs",
+              "RelativeToolTip": "QLSinhVien\\SinhVienKCNTT.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwFMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T02:42:17.821Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

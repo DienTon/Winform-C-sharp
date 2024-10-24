@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB99881-79B7-4F7D-B2CC-A53F4256FC48}|ADOQLSV\\ADOQLSV.csproj|c:\\users\\admin\\desktop\\adoqlsv464a\\adoqlsv\\adoqlsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB99881-79B7-4F7D-B2CC-A53F4256FC48}|ADOQLSV\\ADOQLSV.csproj|solutionrelative:adoqlsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB99881-79B7-4F7D-B2CC-A53F4256FC48}|ADOQLSV\\ADOQLSV.csproj|c:\\users\\admin\\desktop\\adoqlsv464a\\adoqlsv\\adoqlsv\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9AB99881-79B7-4F7D-B2CC-A53F4256FC48}|ADOQLSV\\ADOQLSV.csproj|solutionrelative:adoqlsv\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB99881-79B7-4F7D-B2CC-A53F4256FC48}|ADOQLSV\\ADOQLSV.csproj|C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\adoqlsv\\lopdungchung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB99881-79B7-4F7D-B2CC-A53F4256FC48}|ADOQLSV\\ADOQLSV.csproj|solutionrelative:adoqlsv\\lopdungchung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB99881-79B7-4F7D-B2CC-A53F4256FC48}|ADOQLSV\\ADOQLSV.csproj|C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\adoqlsv\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB99881-79B7-4F7D-B2CC-A53F4256FC48}|ADOQLSV\\ADOQLSV.csproj|solutionrelative:adoqlsv\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB99881-79B7-4F7D-B2CC-A53F4256FC48}|ADOQLSV\\ADOQLSV.csproj|C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\adoqlsv\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AB99881-79B7-4F7D-B2CC-A53F4256FC48}|ADOQLSV\\ADOQLSV.csproj|solutionrelative:adoqlsv\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB99881-79B7-4F7D-B2CC-A53F4256FC48}|ADOQLSV\\ADOQLSV.csproj|C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\adoqlsv\\frm_giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB99881-79B7-4F7D-B2CC-A53F4256FC48}|ADOQLSV\\ADOQLSV.csproj|solutionrelative:adoqlsv\\frm_giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB99881-79B7-4F7D-B2CC-A53F4256FC48}|ADOQLSV\\ADOQLSV.csproj|C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\adoqlsv\\frm_giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AB99881-79B7-4F7D-B2CC-A53F4256FC48}|ADOQLSV\\ADOQLSV.csproj|solutionrelative:adoqlsv\\frm_giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB99881-79B7-4F7D-B2CC-A53F4256FC48}|ADOQLSV\\ADOQLSV.csproj|C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\adoqlsv\\frm_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AB99881-79B7-4F7D-B2CC-A53F4256FC48}|ADOQLSV\\ADOQLSV.csproj|solutionrelative:adoqlsv\\frm_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB99881-79B7-4F7D-B2CC-A53F4256FC48}|ADOQLSV\\ADOQLSV.csproj|C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\adoqlsv\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AB99881-79B7-4F7D-B2CC-A53F4256FC48}|ADOQLSV\\ADOQLSV.csproj|solutionrelative:adoqlsv\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB99881-79B7-4F7D-B2CC-A53F4256FC48}|ADOQLSV\\ADOQLSV.csproj|C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\adoqlsv\\frm_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB99881-79B7-4F7D-B2CC-A53F4256FC48}|ADOQLSV\\ADOQLSV.csproj|solutionrelative:adoqlsv\\frm_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\ADOQLSV\\App.config",
+              "RelativeDocumentMoniker": "ADOQLSV\\App.config",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\ADOQLSV\\App.config",
+              "RelativeToolTip": "ADOQLSV\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-05T12:20:23.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\ADOQLSV\\Program.cs",
+              "RelativeDocumentMoniker": "ADOQLSV\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\ADOQLSV\\Program.cs",
+              "RelativeToolTip": "ADOQLSV\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:16:59.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_DangNhap.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\ADOQLSV\\frm_DangNhap.cs",
+              "RelativeDocumentMoniker": "ADOQLSV\\frm_DangNhap.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\ADOQLSV\\frm_DangNhap.cs",
+              "RelativeToolTip": "ADOQLSV\\frm_DangNhap.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:15:25.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\ADOQLSV\\frm_DangNhap.cs",
+              "RelativeDocumentMoniker": "ADOQLSV\\frm_DangNhap.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\ADOQLSV\\frm_DangNhap.cs [Design]",
+              "RelativeToolTip": "ADOQLSV\\frm_DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:14:08.275Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frm_GiaoVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\ADOQLSV\\frm_GiaoVien.cs",
+              "RelativeDocumentMoniker": "ADOQLSV\\frm_GiaoVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\ADOQLSV\\frm_GiaoVien.cs",
+              "RelativeToolTip": "ADOQLSV\\frm_GiaoVien.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAtwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:13:49.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frm_Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\ADOQLSV\\frm_Main.cs",
+              "RelativeDocumentMoniker": "ADOQLSV\\frm_Main.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\ADOQLSV\\frm_Main.cs [Design]",
+              "RelativeToolTip": "ADOQLSV\\frm_Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:13:31.917Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LopDungChung.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\ADOQLSV\\LopDungChung.cs",
+              "RelativeDocumentMoniker": "ADOQLSV\\LopDungChung.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\ADOQLSV\\LopDungChung.cs",
+              "RelativeToolTip": "ADOQLSV\\LopDungChung.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:13:14.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_GiaoVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\ADOQLSV\\frm_GiaoVien.cs",
+              "RelativeDocumentMoniker": "ADOQLSV\\frm_GiaoVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\ADOQLSV\\frm_GiaoVien.cs [Design]",
+              "RelativeToolTip": "ADOQLSV\\frm_GiaoVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:12:54.112Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frm_SinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\ADOQLSV\\frm_SinhVien.cs",
+              "RelativeDocumentMoniker": "ADOQLSV\\frm_SinhVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\ADOQLSV\\frm_SinhVien.cs",
+              "RelativeToolTip": "ADOQLSV\\frm_SinhVien.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:13:03.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_SinhVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\ADOQLSV\\frm_SinhVien.cs",
+              "RelativeDocumentMoniker": "ADOQLSV\\frm_SinhVien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADOQLSV464A\\ADOQLSV\\ADOQLSV\\frm_SinhVien.cs [Design]",
+              "RelativeToolTip": "ADOQLSV\\frm_SinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T12:12:54.797Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

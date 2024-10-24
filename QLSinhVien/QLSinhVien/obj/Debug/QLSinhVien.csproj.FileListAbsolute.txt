@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+C:\Users\Admin\source\repos\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.exe
+C:\Users\Admin\source\repos\QLSinhVien\QLSinhVien\bin\Debug\QLSinhVien.pdb
+C:\Users\Admin\source\repos\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.exe
+C:\Users\Admin\source\repos\QLSinhVien\QLSinhVien\obj\Debug\QLSinhVien.pdb

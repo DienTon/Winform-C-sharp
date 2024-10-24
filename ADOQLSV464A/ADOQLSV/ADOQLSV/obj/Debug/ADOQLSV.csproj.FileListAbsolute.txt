@@ -1,0 +1,58 @@
+D:\Cong\Workspace\C#\ADOQLSV\ADOQLSV\bin\Debug\QLSinhVien.mdf
+D:\Cong\Workspace\C#\ADOQLSV\ADOQLSV\bin\Debug\QLSinhVien_log.ldf
+D:\Cong\Workspace\C#\ADOQLSV\ADOQLSV\bin\Debug\ADOQLSV.exe.config
+D:\Cong\Workspace\C#\ADOQLSV\ADOQLSV\bin\Debug\ADOQLSV.exe
+D:\Cong\Workspace\C#\ADOQLSV\ADOQLSV\bin\Debug\ADOQLSV.pdb
+D:\Cong\Workspace\C#\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.csprojAssemblyReference.cache
+D:\Cong\Workspace\C#\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.Properties.Resources.resources
+D:\Cong\Workspace\C#\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.csproj.GenerateResource.cache
+D:\Cong\Workspace\C#\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.csproj.CoreCompileInputs.cache
+D:\Cong\Workspace\C#\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.exe
+D:\Cong\Workspace\C#\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.pdb
+D:\Cong\Workspace\C#\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.frm_DangNhap.resources
+D:\Cong\Workspace\C#\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.frm_SinhVien.resources
+C:\Users\Administrator\Downloads\ADOQLSV\ADOQLSV\bin\Debug\QLSinhVien.mdf
+C:\Users\Administrator\Downloads\ADOQLSV\ADOQLSV\bin\Debug\QLSinhVien_log.ldf
+C:\Users\Administrator\Downloads\ADOQLSV\ADOQLSV\bin\Debug\ADOQLSV.exe.config
+C:\Users\Administrator\Downloads\ADOQLSV\ADOQLSV\bin\Debug\ADOQLSV.exe
+C:\Users\Administrator\Downloads\ADOQLSV\ADOQLSV\bin\Debug\ADOQLSV.pdb
+C:\Users\Administrator\Downloads\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.frm_DangNhap.resources
+C:\Users\Administrator\Downloads\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.frm_SinhVien.resources
+C:\Users\Administrator\Downloads\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.Properties.Resources.resources
+C:\Users\Administrator\Downloads\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.exe
+C:\Users\Administrator\Downloads\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.pdb
+C:\Users\Administrator\Downloads\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.frm_Main.resources
+C:\Users\Administrator\Downloads\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.frm_GiaoVien.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\ADOQLSV\ADOQLSV\bin\Debug\QLSinhVien.mdf
+C:\Users\ADMIN\Documents\Zalo Received Files\ADOQLSV\ADOQLSV\bin\Debug\QLSinhVien_log.ldf
+C:\Users\ADMIN\Documents\Zalo Received Files\ADOQLSV\ADOQLSV\bin\Debug\ADOQLSV.exe.config
+C:\Users\ADMIN\Documents\Zalo Received Files\ADOQLSV\ADOQLSV\bin\Debug\ADOQLSV.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\ADOQLSV\ADOQLSV\bin\Debug\ADOQLSV.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.frm_DangNhap.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.frm_GiaoVien.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.frm_Main.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.frm_SinhVien.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.pdb
+C:\Users\Admin\Desktop\ADOQLSV464A\ADOQLSV\ADOQLSV\bin\Debug\QLSinhVien.mdf
+C:\Users\Admin\Desktop\ADOQLSV464A\ADOQLSV\ADOQLSV\bin\Debug\QLSinhVien_log.ldf
+C:\Users\Admin\Desktop\ADOQLSV464A\ADOQLSV\ADOQLSV\bin\Debug\ADOQLSV.exe.config
+C:\Users\Admin\Desktop\ADOQLSV464A\ADOQLSV\ADOQLSV\bin\Debug\ADOQLSV.exe
+C:\Users\Admin\Desktop\ADOQLSV464A\ADOQLSV\ADOQLSV\bin\Debug\ADOQLSV.pdb
+C:\Users\Admin\Desktop\ADOQLSV464A\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ADOQLSV464A\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.frm_DangNhap.resources
+C:\Users\Admin\Desktop\ADOQLSV464A\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.frm_GiaoVien.resources
+C:\Users\Admin\Desktop\ADOQLSV464A\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.frm_Main.resources
+C:\Users\Admin\Desktop\ADOQLSV464A\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.frm_SinhVien.resources
+C:\Users\Admin\Desktop\ADOQLSV464A\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.Properties.Resources.resources
+C:\Users\Admin\Desktop\ADOQLSV464A\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ADOQLSV464A\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ADOQLSV464A\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.exe
+C:\Users\Admin\Desktop\ADOQLSV464A\ADOQLSV\ADOQLSV\obj\Debug\ADOQLSV.pdb
