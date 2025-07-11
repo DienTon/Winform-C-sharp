@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\QL_cong_ty\QL_cong_ty\bin\Debug\QL_cong_ty.exe.config
+C:\Users\Admin\source\repos\QL_cong_ty\QL_cong_ty\bin\Debug\QL_cong_ty.exe
+C:\Users\Admin\source\repos\QL_cong_ty\QL_cong_ty\bin\Debug\QL_cong_ty.pdb
+C:\Users\Admin\source\repos\QL_cong_ty\QL_cong_ty\obj\Debug\QL_cong_ty.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QL_cong_ty\QL_cong_ty\obj\Debug\QL_cong_ty.Properties.Resources.resources
+C:\Users\Admin\source\repos\QL_cong_ty\QL_cong_ty\obj\Debug\QL_cong_ty.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QL_cong_ty\QL_cong_ty\obj\Debug\QL_cong_ty.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QL_cong_ty\QL_cong_ty\obj\Debug\QL_cong_ty.exe
+C:\Users\Admin\source\repos\QL_cong_ty\QL_cong_ty\obj\Debug\QL_cong_ty.pdb
+C:\Users\Admin\source\repos\QL_cong_ty\QL_cong_ty\bin\Debug\QLKH.mdf
+C:\Users\Admin\source\repos\QL_cong_ty\QL_cong_ty\bin\Debug\QLKH_log.ldf
+C:\Users\Admin\source\repos\QL_cong_ty\QL_cong_ty\obj\Debug\QL_cong_ty.exe.config
+C:\Users\Admin\source\repos\QL_cong_ty\QL_cong_ty\obj\Debug\QL_cong_ty.QLKH.resources
+C:\Users\Admin\source\repos\QL_cong_ty\QL_cong_ty\obj\Debug\QL_cong_ty.QLCT.resources

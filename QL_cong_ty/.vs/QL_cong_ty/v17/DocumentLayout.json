@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\QL_cong_ty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC393FA-57D2-477D-8C14-5A01D263ACC9}|QL_cong_ty\\QL_cong_ty.csproj|c:\\users\\admin\\source\\repos\\ql_cong_ty\\ql_cong_ty\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6DC393FA-57D2-477D-8C14-5A01D263ACC9}|QL_cong_ty\\QL_cong_ty.csproj|solutionrelative:ql_cong_ty\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|QL_cong_ty||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC393FA-57D2-477D-8C14-5A01D263ACC9}|QL_cong_ty\\QL_cong_ty.csproj|c:\\users\\admin\\source\\repos\\ql_cong_ty\\ql_cong_ty\\qlct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DC393FA-57D2-477D-8C14-5A01D263ACC9}|QL_cong_ty\\QL_cong_ty.csproj|solutionrelative:ql_cong_ty\\qlct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC393FA-57D2-477D-8C14-5A01D263ACC9}|QL_cong_ty\\QL_cong_ty.csproj|c:\\users\\admin\\source\\repos\\ql_cong_ty\\ql_cong_ty\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DC393FA-57D2-477D-8C14-5A01D263ACC9}|QL_cong_ty\\QL_cong_ty.csproj|solutionrelative:ql_cong_ty\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DC393FA-57D2-477D-8C14-5A01D263ACC9}|QL_cong_ty\\QL_cong_ty.csproj|c:\\users\\admin\\source\\repos\\ql_cong_ty\\ql_cong_ty\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QL_cong_ty",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QL_cong_ty\\QL_cong_ty\\QL_cong_ty.csproj",
+              "RelativeDocumentMoniker": "QL_cong_ty\\QL_cong_ty.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QL_cong_ty\\QL_cong_ty\\QL_cong_ty.csproj*",
+              "RelativeToolTip": "QL_cong_ty\\QL_cong_ty.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-11T11:06:45.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QL_cong_ty\\QL_cong_ty\\App.config",
+              "RelativeDocumentMoniker": "QL_cong_ty\\App.config",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QL_cong_ty\\QL_cong_ty\\App.config",
+              "RelativeToolTip": "QL_cong_ty\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-11T11:06:38.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QLCT.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QL_cong_ty\\QL_cong_ty\\QLCT.cs",
+              "RelativeDocumentMoniker": "QL_cong_ty\\QLCT.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QL_cong_ty\\QL_cong_ty\\QLCT.cs [Design]",
+              "RelativeToolTip": "QL_cong_ty\\QLCT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:06:34.105Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\QL_cong_ty\\QL_cong_ty\\Form1.cs",
+              "RelativeDocumentMoniker": "QL_cong_ty\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\QL_cong_ty\\QL_cong_ty\\Form1.cs [Design]*",
+              "RelativeToolTip": "QL_cong_ty\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:03:45.776Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
