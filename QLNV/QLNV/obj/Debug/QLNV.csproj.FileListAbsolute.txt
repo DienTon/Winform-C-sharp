@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\QLNV\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\Admin\source\repos\QLNV\QLNV\bin\Debug\QLNV.exe
+C:\Users\Admin\source\repos\QLNV\QLNV\bin\Debug\QLNV.pdb
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.exe
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.pdb
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.exe.config
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.QLNV.resources
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.frmMDI.resources
+C:\Users\Admin\source\repos\QLNV\QLNV\bin\Debug\QLVN.mdf
+C:\Users\Admin\source\repos\QLNV\QLNV\bin\Debug\QLVN_log.ldf
