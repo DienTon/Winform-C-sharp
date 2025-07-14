@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\TonThatDien_27211234266\TonThatDien_27211234266\bin\Debug\QLCAFE.mdf
+C:\Users\Administrator\source\repos\TonThatDien_27211234266\TonThatDien_27211234266\bin\Debug\QLCAFE_log.ldf
+C:\Users\Administrator\source\repos\TonThatDien_27211234266\TonThatDien_27211234266\bin\Debug\TonThatDien_27211234266.exe.config
+C:\Users\Administrator\source\repos\TonThatDien_27211234266\TonThatDien_27211234266\bin\Debug\TonThatDien_27211234266.exe
+C:\Users\Administrator\source\repos\TonThatDien_27211234266\TonThatDien_27211234266\bin\Debug\TonThatDien_27211234266.pdb
+C:\Users\Administrator\source\repos\TonThatDien_27211234266\TonThatDien_27211234266\obj\Debug\TonThatDien_27211234266.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\TonThatDien_27211234266\TonThatDien_27211234266\obj\Debug\TonThatDien_27211234266.frmCha.resources
+C:\Users\Administrator\source\repos\TonThatDien_27211234266\TonThatDien_27211234266\obj\Debug\TonThatDien_27211234266.Properties.Resources.resources
+C:\Users\Administrator\source\repos\TonThatDien_27211234266\TonThatDien_27211234266\obj\Debug\TonThatDien_27211234266.QUANLYCAFE.resources
+C:\Users\Administrator\source\repos\TonThatDien_27211234266\TonThatDien_27211234266\obj\Debug\TonThatDien_27211234266.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\TonThatDien_27211234266\TonThatDien_27211234266\obj\Debug\TonThatDien_27211234266.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TonThatDien_27211234266\TonThatDien_27211234266\obj\Debug\TonThatDien_27211234266.exe
+C:\Users\Administrator\source\repos\TonThatDien_27211234266\TonThatDien_27211234266\obj\Debug\TonThatDien_27211234266.pdb
