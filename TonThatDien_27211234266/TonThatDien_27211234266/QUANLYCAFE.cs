@@ -51,8 +51,18 @@ namespace TonThatDien_27211234266
                 MessageBox.Show("Giá tiền không hợp lệ. Vui lòng nhập một số.", "Lỗi nhập liệu", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
-            string ngayTao= dtpNgayTao.Value.ToString("yyyy-MM-dd"); ;
-            string maDM= cbbTenDanhMuc.SelectedValue.ToString();
+            string ngayTao = dtpNgayTao.Value.ToString("yyyy-MM-dd");
+            string maDM = cbbTenDanhMuc.SelectedValue.ToString();
+
+            // Kiểm tra MaMon đã tồn tại chưa
+            string checkQuery = $"SELECT COUNT(*) FROM SANPHAM WHERE MaMon = N'{maMon}'";
+            int count = sqlServerConnection.ExecuteScalar(checkQuery);
+            if (count > 0)
+            {
+                MessageBox.Show("Mã món đã tồn tại. Vui lòng nhập mã khác.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
             string query = $@"INSERT INTO SANPHAM (MaMon, TenMon, MaDM, Gia, NgayTao) 
                               VALUES (N'{maMon}', N'{tenMon}', N'{maDM}', '{giaTien}', '{ngayTao}')";
             int result = sqlServerConnection.ExecuteNonQuery(query);
@@ -101,25 +111,24 @@ namespace TonThatDien_27211234266
                 MessageBox.Show("Giá tiền không hợp lệ. Vui lòng nhập một số.", "Lỗi nhập liệu", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
-            string ngayTao = dtpNgayTao.Value.ToString("yyyy-MM-dd"); ;
+            string ngayTao = dtpNgayTao.Value.ToString("yyyy-MM-dd");
             string maDM = cbbTenDanhMuc.SelectedValue.ToString();
             string query = $@"UPDATE SANPHAM SET 
                                 TenMon = N'{tenMon}', 
                                 Gia = '{giaTien}', 
-                                MaDm = '{maDM}', 
+                                MaDM = '{maDM}', 
                                 NgayTao = N'{ngayTao}'
-                                WHERE MaMon = {maDM}";
+                                WHERE MaMon = N'{maMon}'";
             int result = sqlServerConnection.ExecuteNonQuery(query);
             if (result > 0)
             {
-                MessageBox.Show("Sửa san pham thành công.");
+                MessageBox.Show("Sửa sản phẩm thành công.");
                 loadSanPham();
             }
             else
             {
-                MessageBox.Show("Sửa san pham thất bại.");
+                MessageBox.Show("Sửa sản phẩm thất bại.");
             }
-
         }
 
         private void dgvDanhSach_CellClick(object sender, DataGridViewCellEventArgs e)
@@ -134,5 +143,17 @@ namespace TonThatDien_27211234266
                 cbbTenDanhMuc.Text = row.Cells["TenDM"].Value?.ToString();
             }
         }
+
+        private void btnLamMoi_Click(object sender, EventArgs e)
+        {
+            tbMaMon.Text = "";
+            tbTenMon.Text = "";
+            tbGiaTien.Text = "";
+            dtpNgayTao.Value = DateTime.Now;
+            if (cbbTenDanhMuc.Items.Count > 0)
+                cbbTenDanhMuc.SelectedIndex = 0;
+            tbMaMon.ReadOnly = false;
+            dgvDanhSach.ClearSelection();
+        }
     }
-    }
+}

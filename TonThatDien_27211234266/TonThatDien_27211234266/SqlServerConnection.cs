@@ -10,7 +10,7 @@ namespace TonThatDien_27211234266
 {
     class SqlServerConnection
     {
-        private static string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Administrator\\source\\repos\\TonThatDien_27211234266\\TonThatDien_27211234266\\QLCAFE.mdf;Integrated Security=True";
+        private static string connectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\Admin\\Documents\\GitHub\\Winform-C-sharp\\TonThatDien_27211234266\\TonThatDien_27211234266\\Database1.mdf;Integrated Security=True";
         private SqlConnection connection;
         public SqlServerConnection()
         {

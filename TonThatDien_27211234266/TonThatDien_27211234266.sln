@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.757
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TonThatDien_27211234266", "TonThatDien_27211234266\TonThatDien_27211234266.csproj", "{1C14F0A1-7D51-445E-B9F6-86D14BFDB5FD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QL_CAFE", "TonThatDien_27211234266\QL_CAFE.csproj", "{1C14F0A1-7D51-445E-B9F6-86D14BFDB5FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
