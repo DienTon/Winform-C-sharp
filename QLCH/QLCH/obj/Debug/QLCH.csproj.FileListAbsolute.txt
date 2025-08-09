@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\Winform-C-sharp\QLCH\QLCH\obj\Debug\QLCH.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Winform-C-sharp\QLCH\QLCH\obj\Debug\QLCH.frmVatTu.resources
+C:\Users\Admin\Documents\GitHub\Winform-C-sharp\QLCH\QLCH\obj\Debug\QLCH.frmMDI.resources
+C:\Users\Admin\Documents\GitHub\Winform-C-sharp\QLCH\QLCH\obj\Debug\QLCH.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\Winform-C-sharp\QLCH\QLCH\obj\Debug\QLCH.QLNV.resources
+C:\Users\Admin\Documents\GitHub\Winform-C-sharp\QLCH\QLCH\obj\Debug\QLCH.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\Winform-C-sharp\QLCH\QLCH\obj\Debug\QLCH.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Winform-C-sharp\QLCH\QLCH\bin\Debug\CuaHang.mdf
+C:\Users\Admin\Documents\GitHub\Winform-C-sharp\QLCH\QLCH\bin\Debug\QLCH.exe.config
+C:\Users\Admin\Documents\GitHub\Winform-C-sharp\QLCH\QLCH\bin\Debug\QLCH.exe
+C:\Users\Admin\Documents\GitHub\Winform-C-sharp\QLCH\QLCH\bin\Debug\QLCH.pdb
+C:\Users\Admin\Documents\GitHub\Winform-C-sharp\QLCH\QLCH\obj\Debug\QLCH.exe
+C:\Users\Admin\Documents\GitHub\Winform-C-sharp\QLCH\QLCH\obj\Debug\QLCH.pdb
+C:\Users\Admin\Documents\GitHub\Winform-C-sharp\QLCH\QLCH\obj\Debug\QLCH.exe.config
